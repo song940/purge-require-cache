@@ -1,0 +1,12 @@
+{
+  "name": "purge-require-cache",
+  "version": "0.0.0",
+  "description": "Remove module instance from `require.cache`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lsong <song940@gmail.com> (https://lsong.org)",
+  "license": "MIT"
+}
